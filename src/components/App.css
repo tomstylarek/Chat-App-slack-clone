@@ -1,0 +1,10 @@
+.App {
+  display: grid;
+  grid-template-columns: 17rem auto auto;
+  min-height: 100vh;
+}
+
+.side-container {
+  background: white;
+  height: 100vh;
+}
